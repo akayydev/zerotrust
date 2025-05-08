@@ -8,6 +8,7 @@ Bu bölümde, Cloudflare üzerinden bir **Zero Trust Tüneli** kurarak Discord t
 
 - Bir adet Cloudflare hesabı yoksa bu linkten oluşturunuz. ([https://dash.cloudflare.com](https://dash.cloudflare.com))
 - Uyumlu bir cihaz
+- WARP uygulaması ([https://one.one.one.one/](https://one.one.one.one/))
 
 ---
 
