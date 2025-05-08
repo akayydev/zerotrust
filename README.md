@@ -20,8 +20,7 @@
 
 - 🔐 Zero Trust Proxy Kurulumu ( Cloudflare Tunnel / WARP )  
 - 🔄 mTLS (karşılıklı TLS) ile şifreli bağlantı  
-- 🚧 Discord IP’lerinin Whitelist ve Bypass ayarları  
-- 🌐 DNS over HTTPS (DoH) + firewall routing  
+- 🚧 Discord IP’lerinin Whitelist ve Bypass ayarları    
   
 ---
 
