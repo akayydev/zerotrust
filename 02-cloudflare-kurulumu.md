@@ -51,3 +51,5 @@ Save edip **Back to Settings** seçeneği ile geri dönün.
 En aşağı kaydırıp **Split Tunnels** seçeneğini **Exclude IPs and domains >> Include IPs and domains** seçeneğine çevirip onaylayın.
 
 ![image](https://github.com/user-attachments/assets/eeaa22dd-da94-467d-975a-64dcb1bafb99)
+
+**Manage** seçeneğine basıp 
