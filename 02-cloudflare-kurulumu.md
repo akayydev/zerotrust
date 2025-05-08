@@ -79,9 +79,13 @@ Açılan yeni sekmede ileri basıp, çıkan sekmeyi kabul et diyip ilerliyoruz.
 
 Bu sekmeye ulaştığınız zaman en başta oluşturmuş olduğunuz takım adını yazıp yönlendirilen **Warp Login App** sayfasında aktif olarak kullandığınız bir email girip postanıza gelen kodu yazdıktan sonra giriş yapmış oluyorsunuz.
 
-![image](https://github.com/user-attachments/assets/df115519-3d77-44f0-8237-eccb64375df6)
+---
 
 Bu sayfayı gördüyseniz başarılı bir şekilde Discordu tünellemişsinizdir. Eğer IP ve DOMAIN'leri eksiksiz girdiyseniz Chrome üzerinden de Discord erişimi açılmış olacaktır.
+
+![image](https://github.com/user-attachments/assets/df115519-3d77-44f0-8237-eccb64375df6)
+
+
 
 
 
