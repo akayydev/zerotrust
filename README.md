@@ -27,7 +27,7 @@
 
 ## 📂 Rehber Dosyaları
 
-- `01-zero-trust-nedir.md` – Basit kavramlar  
+- [`01-zero-trust-nedir.md`](01-zero-trust-nedir.md) – Basit kavramlar  
 - `02-cloudflare-kurulumu.md` – Tunnel kurulumu  
 - `03-ip-ve-dns-cozumu.md` – IP engellerini aşma 
 ---
