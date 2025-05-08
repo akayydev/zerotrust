@@ -29,7 +29,8 @@
 
 - [`01-zero-trust-nedir.md`](01-zero-trust-nedir.md) – Basit kavramlar  
 - [`02-cloudflare-kurulumu.md`](02-cloudflare-kurulumu.md) – Cloudflare + WARP ile tünel oluşturma 
-- `03-ip-ve-dns.md` – IP ve DOMAIN Listesi
+- [`03-ip-ve-dns.md`](03-ip-ve-dns.md) – IP adresleri ve Domain'ler
+
 ---
 
 ## ⚠️ Uyarı
