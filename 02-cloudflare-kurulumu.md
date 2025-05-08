@@ -1,13 +1,14 @@
 # 🌐 Cloudflare Tunnel ile Zero Trust Kurulumu
 
-Bu bölümde, Cloudflare üzerinden bir **Zero Trust Tüneli** kurarak Discord trafiğini güvenli şekilde yönlendirmeyi öğreneceğiz. Bu yapı sayesinde IP engelleri ve DNS sınırlamaları kolayca aşılabilir. Sadece discord ile sınırlı değil, şuanlık sadece Discord üzerinden kullanacağız.
+Bu bölümde, Cloudflare üzerinden bir **Zero Trust Tüneli** kurarak Discord trafiğini güvenli şekilde yönlendirmeyi öğreneceğiz. Bu yapı sayesinde IP engelleri ve DNS sınırlamaları kolayca aşılabilir. 
+## 📌 Bu yapı Discord dışında diğer engelli servislerde de çalışabilir
 
 ---
 
 ## 🔧 GEREKSİNİMLER
 
 - Bir adet Cloudflare hesabı yoksa bu linkten oluşturunuz. ([https://dash.cloudflare.com](https://dash.cloudflare.com))
-- Uyumlu bir cihaz
+- Windows / Linux yüklü bir cihaz
 - WARP uygulaması ([https://one.one.one.one/](https://one.one.one.one/))
 
 ---
