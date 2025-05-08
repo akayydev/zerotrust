@@ -1,4 +1,4 @@
-##Domainler
+## Domainler
 
 canary.discord.com
 cdn.discordapp.com
@@ -41,7 +41,7 @@ versions.discord.com
 *.discordmedia.com
 *.updates.discord.com
 
-##Ip Adresleri
+## Ip Adresleri
 
 
 162.159.138.232/32
