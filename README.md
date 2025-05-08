@@ -22,18 +22,14 @@
 - 🔄 mTLS (karşılıklı TLS) ile şifreli bağlantı  
 - 🚧 Discord IP’lerinin Whitelist ve Bypass ayarları  
 - 🌐 DNS over HTTPS (DoH) + firewall routing  
-- 🧩 Chrome eklentisi veya Vencord ile domain tunneling  
-
+  
 ---
 
 ## 📂 Rehber Dosyaları
 
 - `01-zero-trust-nedir.md` – Basit kavramlar  
 - `02-cloudflare-kurulumu.md` – Tunnel kurulumu  
-- `03-ip-ve-dns-cozumu.md` – IP engellerini aşma  
-- `04-chrome-vencord-ayarlari.md` – Eklenti ayarları  
-- `05-mobil-uyumluluk.md` – Android/iOS için çözüm  
-
+- `03-ip-ve-dns-cozumu.md` – IP engellerini aşma 
 ---
 
 ## ⚠️ Uyarı
@@ -44,6 +40,6 @@ Ticari, yasa dışı veya kötüye kullanım durumları yasal sorumluluk doğura
 ---
 
 <p align="center">
-  <b>Hazırlayan:</b> <a href="https://github.com/akayy">Akay</a> 💻<br>
-  <i>“Güvenme. Doğrula. Tünelle. Gir.”</i>
+  <b>Hazırlayan:</b> <a href="(https://github.com/ardakay19)">Akay</a><br>
+  <i>“Güvenme. Doğrula. Gir.”</i>
 </p>
