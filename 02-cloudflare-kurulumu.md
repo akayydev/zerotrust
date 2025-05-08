@@ -27,6 +27,7 @@ Bu bölümde, Cloudflare üzerinden bir **Zero Trust Tüneli** kurarak Discord t
 ## 2. Zero Trust Kurulumu
 
 Sol sekmeden **Access > Policies** kısmına gelin. **Add a Policy** seçeneğini seçin.
+
 ![image](https://github.com/user-attachments/assets/637e8de9-ebf2-47f4-85bf-e641a3086d2e)
 ![image](https://github.com/user-attachments/assets/b3ea4302-f154-4b53-8942-8c954b63f4f1)
 
@@ -38,10 +39,13 @@ Yaptıklarınızın aynısını **Access > Rule Groups** seçeneği içinde yap�
 
  Sol sekmeden **Settings > Warp Client** sekmesini açın.
  **Device enrollment permissions** seçeneğinin yanındaki **Manage** sekmesine basın.
+ 
 ![image](https://github.com/user-attachments/assets/a4566020-77ac-4d1b-87a3-9d2d8cfff7a3)
+
 Oluşturduğunuz **Policies'i** burada seçiniz.
 Save edip **Back to Settings** seçeneği ile geri dönün.
 **Device settings > Profile settings >> Configure** seçeneğine basın.
+
 ![image](https://github.com/user-attachments/assets/e0cb8a9a-1ff5-4475-aa15-fb7fc27936b8)
 
 
