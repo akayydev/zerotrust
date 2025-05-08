@@ -34,6 +34,7 @@ Sol sekmeden **Access > Policies** kısmına gelin. **Add a Policy** seçeneğin
 Ayarlarınızı bu şekilde yaptıktan sonra aşağı kaydırıp kaydedin.
 Yaptıklarınızın aynısını **Access > Rule Groups** seçeneği içinde yapıp kaydedin.
 
+---
 
 ## Discord'u tünellemek
 
