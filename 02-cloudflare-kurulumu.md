@@ -52,4 +52,27 @@ En aşağı kaydırıp **Split Tunnels** seçeneğini **Exclude IPs and domains 
 
 ![image](https://github.com/user-attachments/assets/eeaa22dd-da94-467d-975a-64dcb1bafb99)
 
-**Manage** seçeneğine basıp 
+**Manage** seçeneğine basıp [`03-ip-ve-dns.md`](03-ip-ve-dns.md) bu kısımdaki tüm domain ve ip adreslerini tek tek yapıştırıyoruz. Description seçeneğini boş bırakabilirsiniz.
+
+Daha sonra başta indirdiğimiz WARP uygulamasını kuruyoruz.
+![image](https://github.com/user-attachments/assets/f52fa3cb-1d52-4850-8fe7-fb715b4c9d6e)
+
+Sağ alttan **Ayarlar > Tercihler > Hesap ve _Cloudflare Zero Trust ile oturum aç_** seçeneğine basıyoruz. 
+Açılan yeni sekmede ileri basıp, çıkan sekmeyi kabul et diyip ilerliyoruz.
+
+![image](https://github.com/user-attachments/assets/458ad7f2-b491-445a-adff-57f47f824f2d)
+
+Bu sekmeye ulaştığınız zaman en başta oluşturmuş olduğunuz takım adını yazıp yönlendirilen **Warp Login App** sayfasında aktif olarak kullandığınız bir email girip postanıza gelen kodu yazdıktan sonra giriş yapmış oluyorsunuz.
+
+![image](https://github.com/user-attachments/assets/df115519-3d77-44f0-8237-eccb64375df6)
+
+Bu sayfayı gördüyseniz başarılı bir şekilde Discordu tünellemişsinizdir. Eğer IP ve DOMAIN'leri eksiksiz girdiyseniz Chrome üzerinden de Discord erişimi açılmış olacaktır.
+
+
+
+
+
+
+
+
+
