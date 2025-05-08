@@ -15,8 +15,8 @@ Bu bölümde, Cloudflare üzerinden bir **Zero Trust Tüneli** kurarak Discord t
 
 ## 🧱 1. Cloudflare Zero Trust Panelini Aç
 
-1. [https://one.dash.cloudflare.com/](https://one.dash.cloudflare.com/) adresine gir  
-2. Sol menuden **Zero Trust** sekmesine gel.
+1. Cloudflare hesabınızı oluşturduktan sonra; [https://one.dash.cloudflare.com/](https://one.dash.cloudflare.com/) adresine girin. 
+2. Sol menuden **Zero Trust** sekmesine gelin.
 3. Takımın adını oluşturun. (Giriş yaparken bu ad lazım olucak sallamayın.)
 4. Free paketini seçip **Select plans** diyoruz.
 5. Kart bilgilerimizi yazıp ilerliyoruz. **Karttan para çekmeyecektir ücretsiz sürümü kullannıyor doğrulama amaçlı kart bilgisi ister.**
