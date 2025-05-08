@@ -53,8 +53,9 @@ En aşağı kaydırıp **Split Tunnels** seçeneğini **Exclude IPs and domains 
 ![image](https://github.com/user-attachments/assets/eeaa22dd-da94-467d-975a-64dcb1bafb99)
 
 **Manage** seçeneğine basıp [`03-ip-ve-dns.md`](03-ip-ve-dns.md) bu kısımdaki tüm domain ve ip adreslerini tek tek yapıştırıyoruz. Description seçeneğini boş bırakabilirsiniz.
+![image](https://github.com/user-attachments/assets/203e2b5f-28fe-4d83-8ca5-1d3d0a30d253)
 
-**Back to Profile** seçeneğine basıp geri döndükten sonra **Device tunnel protocol** ayarını resimdeki MASQUE protocolune çeviriyoruz.
+IP kısmını IP'ye gelicek şekilde ayarlayıp, **Back to Profile** seçeneğine basıp geri döndükten sonra **Device tunnel protocol** ayarını resimdeki MASQUE protocolune çeviriyoruz.
 ![image](https://github.com/user-attachments/assets/8992a376-2617-4d25-9cc5-b7a95ec35245)
 
 En aşağıya kaydırıp kaydettikten sonra Chrome üzerinden ayarlamalarımız tamam.
