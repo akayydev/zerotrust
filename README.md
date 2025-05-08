@@ -1,22 +1,49 @@
-# Zero Trust ile Discord Erişim Engeli Aşma Rehberi
+<h1 align="center">🛡️ Zero Trust ile Discord Erişim Engeli Aşma Rehberi</h1>
 
-Bu rehber, Discord’a erişim engeli olan bölgelerde (ülke kısıtlaması, IP banı vs.) Zero Trust Network Access (ZTNA) yaklaşımıyla güvenli ve sürekli bağlantı sağlamayı amaçlar. Tamamen teknik ve bireysel kullanım içindir.
-Amaç
-Discord’un kısıtlandığı ülkelerde (örneğin Türkiye gibi 🫠) erişim sağlamak
+<p align="center">
+  <i>Discord'un kısıtlandığı bölgelerde (ülke engeli, IP banı vs.) <b>Zero Trust Network Access (ZTNA)</b> ile erişimi geri kazan!</i><br>
+  <sub>örnek: Türkiye gibi 🙈</sub>
+</p>
 
-IP engelleri, port bloklamaları ve DNS sorunlarını aşmak
+---
 
-Tüm trafiği güvenli, şifreli ve kontrollü biçimde yönlendirmek
+## 🎯 Amaç
 
-Kendi “Zero Trust” tünel altyapını kurarak VPN bağımlılığından kurtulmak
+- IP engelleri, port bloklamaları ve DNS sorunlarını aşmak  
+- Tüm trafiği güvenli, şifreli ve kontrollü biçimde yönlendirmek  
+- VPN olmadan kendi tünel altyapını kurmak  
+- Chrome/Vencord eklentileriyle Discord erişimini kalıcı hale getirmek  
 
-🛠️ Kullanılan Yöntemler
-Zero Trust Proxy Kurulumu (Cloudflare Tunnel / Tailscale / Ziti)
+---
 
-mTLS (karşılıklı TLS) ile şifreli bağlantı
+## 🧰 Kullanılan Yöntemler
 
-Discord IP’lerinin whitelisting & bypass ayarları
+- 🔐 Zero Trust Proxy Kurulumu (Cloudflare Tunnel / Tailscale / Ziti)  
+- 🔄 mTLS (karşılıklı TLS) ile şifreli bağlantı  
+- 🚧 Discord IP’lerinin Whitelist ve Bypass ayarları  
+- 🌐 DNS over HTTPS (DoH) + firewall routing  
+- 🧩 Chrome eklentisi veya Vencord ile domain tunneling  
 
-DNS over HTTPS (DoH) + firewall routing
+---
 
-Chrome eklentisi veya Vencord destekli domain tunneling
+## 📂 Rehber Dosyaları
+
+- `01-zero-trust-nedir.md` – Basit kavramlar  
+- `02-cloudflare-kurulumu.md` – Tunnel kurulumu  
+- `03-ip-ve-dns-cozumu.md` – IP engellerini aşma  
+- `04-chrome-vencord-ayarlari.md` – Eklenti ayarları  
+- `05-mobil-uyumluluk.md` – Android/iOS için çözüm  
+
+---
+
+## ⚠️ Uyarı
+
+Bu içerik tamamen **eğitim ve kişisel erişim** amaçlı hazırlanmıştır.  
+Ticari, yasa dışı veya kötüye kullanım durumları yasal sorumluluk doğurabilir.
+
+---
+
+<p align="center">
+  <b>Hazırlayan:</b> <a href="https://github.com/akayy">Akay</a> 💻<br>
+  <i>“Güvenme. Doğrula. Tünelle. Gir.”</i>
+</p>
