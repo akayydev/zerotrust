@@ -65,6 +65,7 @@ En aşağıya kaydırıp kaydettikten sonra Chrome üzerinden ayarlamalarımız 
 
 
 Daha sonra başta indirdiğimiz WARP uygulamasını kuruyoruz.
+
 ![image](https://github.com/user-attachments/assets/f52fa3cb-1d52-4850-8fe7-fb715b4c9d6e)
 
 Sağ alttan **Ayarlar > Tercihler > Hesap ve _Cloudflare Zero Trust ile oturum aç_** seçeneğine basıyoruz. 
