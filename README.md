@@ -24,7 +24,7 @@
   
 ---
 
-## 📂 Rehber Dosyaları
+## 📂 Rehber Dosyaları - Kurulum Aşamaları
 
 - [`01-zero-trust-nedir.md`](01-zero-trust-nedir.md) – Basit kavramlar  
 - [`02-cloudflare-kurulumu.md`](02-cloudflare-kurulumu.md) – Cloudflare + WARP ile tünel oluşturma 
