@@ -46,5 +46,4 @@ IP adreslerini bazı durumlarda güncelliyorum şuan ki IP'ler fazlası ile yete
 
 <p align="center">
   <b>Hazırlayan:</b> <a href="https://github.com/ardakay19">Akay</a> <br>
-  <i>“Güvenme. Doğrula. Gir.”</i>
 </p>
