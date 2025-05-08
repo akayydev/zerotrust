@@ -63,6 +63,7 @@ IP kısmını IP'ye gelicek şekilde ayarlayıp, **Back to Profile** seçeneğin
 
 En aşağıya kaydırıp kaydettikten sonra Chrome üzerinden ayarlamalarımız tamam.
 
+---
 
 Daha sonra başta indirdiğimiz WARP uygulamasını kuruyoruz.
 
