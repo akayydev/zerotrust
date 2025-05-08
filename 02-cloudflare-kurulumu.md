@@ -66,6 +66,8 @@ En aşağıya kaydırıp kaydettikten sonra Chrome üzerinden ayarlamalarımız 
 
 ---
 
+## WARP Uygulamasının Ayarları
+
 Daha sonra başta indirdiğimiz WARP uygulamasını kuruyoruz.
 
 ![image](https://github.com/user-attachments/assets/f52fa3cb-1d52-4850-8fe7-fb715b4c9d6e)
