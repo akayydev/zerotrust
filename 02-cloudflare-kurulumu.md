@@ -54,6 +54,12 @@ En aşağı kaydırıp **Split Tunnels** seçeneğini **Exclude IPs and domains 
 
 **Manage** seçeneğine basıp [`03-ip-ve-dns.md`](03-ip-ve-dns.md) bu kısımdaki tüm domain ve ip adreslerini tek tek yapıştırıyoruz. Description seçeneğini boş bırakabilirsiniz.
 
+**Back to Profile** seçeneğine basıp geri döndükten sonra **Device tunnel protocol** ayarını resimdeki MASQUE protocolune çeviriyoruz.
+![image](https://github.com/user-attachments/assets/8992a376-2617-4d25-9cc5-b7a95ec35245)
+
+En aşağıya kaydırıp kaydettikten sonra Chrome üzerinden ayarlamalarımız tamam.
+
+
 Daha sonra başta indirdiğimiz WARP uygulamasını kuruyoruz.
 ![image](https://github.com/user-attachments/assets/f52fa3cb-1d52-4850-8fe7-fb715b4c9d6e)
 
