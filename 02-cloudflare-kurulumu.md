@@ -81,7 +81,7 @@ Bu sekmeye ulaştığınız zaman en başta oluşturmuş olduğunuz takım adın
 
 ---
 
-Bu sayfayı gördüyseniz başarılı bir şekilde Discordu tünellemişsinizdir. Eğer IP ve DOMAIN'leri eksiksiz girdiyseniz Chrome üzerinden de Discord erişimi açılmış olacaktır.
+Bu sayfayı gördüyseniz başarılı bir şekilde Discord'u tünellemişsinizdir. Eğer IP ve DOMAIN'leri eksiksiz girdiyseniz Chrome üzerinden de Discord erişimi açılmış olacaktır.
 
 ![image](https://github.com/user-attachments/assets/df115519-3d77-44f0-8237-eccb64375df6)
 
