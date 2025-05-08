@@ -12,7 +12,7 @@
 - IP engelleri, port bloklamaları ve DNS sorunlarını aşmak  
 - Tüm trafiği güvenli, şifreli ve kontrollü biçimde yönlendirmek  
 - VPN olmadan kendi tünel altyapını kurmak  
-- Chrome/Vencord eklentileriyle Discord erişimini kalıcı hale getirmek  
+- Chrome üzerinden Discord erişimini kalıcı hale getirmek  
 
 ---
 
