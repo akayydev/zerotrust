@@ -40,6 +40,6 @@ Ticari, yasa dışı veya kötüye kullanım durumları yasal sorumluluk doğura
 ---
 
 <p align="center">
-  <b>Hazırlayan:</b> <a href="(https://github.com/ardakay19)">Akay</a><br>
+  <b>Hazırlayan:</b> <a href="https://github.com/ardakay19">Akay</a> <br>
   <i>“Güvenme. Doğrula. Gir.”</i>
 </p>
