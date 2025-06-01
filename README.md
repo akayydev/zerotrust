@@ -125,8 +125,13 @@ discord.tools
 *.discord.tools
 
 discordapp.io
+
 *.discordapp.io
+
 discord.design
+
 *.discord.design
+
 discord-attachments-uploads-prd.storage.googleapis.com
+
 gateway-us-east1-b.discord.gg
