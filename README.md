@@ -1,48 +1,69 @@
-<h1 align="center">🛡️ Zero Trust ile Discord Erişim Engeli Aşma Rehberi</h1>
-
-<p align="center">
-  <i>Discord'un kısıtlandığı bölgelerde (ülke engeli, IP banı vs.) <b>Zero Trust Network Access (ZTNA)</b> ile erişimi geri kazan!</i><br>
-  <sub>örnek: Türkiye gibi 🙈</sub>
-</p>
-
----
-
-## 🎯 Amaç
-
-- IP engelleri, port bloklamaları ve DNS sorunlarını aşmak  
-- Tüm trafiği güvenli, şifreli ve kontrollü biçimde yönlendirmek  
-- VPN olmadan kendi tünel altyapını kurmak  
-- Chrome üzerinden Discord erişimini kalıcı hale getirmek  
-
----
-
-## 🧰 Kullanılan Yöntemler
-
-- 🔐 Zero Trust Proxy Kurulumu ( Cloudflare Tunnel / WARP )  
-- 🔄 mTLS (karşılıklı TLS) ile şifreli bağlantı  
-- 🚧 Discord IP’lerinin Whitelist ve Bypass ayarları    
-  
----
-
-## 📂 Rehber Dosyaları - Kurulum Aşamaları
-
-- [`01-zero-trust-nedir.md`](01-zero-trust-nedir.md) – Basit kavramlar  
-- [`02-cloudflare-kurulumu.md`](02-cloudflare-kurulumu.md) – Cloudflare + WARP ile tünel oluşturma 
-- [`03-ip-ve-dns.md`](03-ip-ve-dns.md) – IP adresleri ve Domain'ler
-
----
-
-## ⚠️ Uyarı
-
-Bu içerik tamamen **eğitim ve kişisel erişim** amaçlı hazırlanmıştır.  
-Ticari, yasa dışı veya kötüye kullanım durumları yasal sorumluluk doğurabilir.
-
----
-
-IP adreslerini bazı durumlarda güncelliyorum şuan ki IP'ler fazlası ile yeterlidir.
-
----
-
-<p align="center">
-  <b>Hazırlayan:</b> <a href="https://github.com/ardakay19">Akay</a> <br>
-</p>
+2a06:98c0::/29
+2606:4700::/32
+2405:8100::/32
+2400:cb00::/32
+162.159.138.232/32
+162.159.137.232/32
+162.159.136.232/32
+162.159.135.233/32
+162.159.135.232/32
+162.159.134.233/32
+162.159.133.233/32
+162.159.130.233/32
+162.159.129.0/24
+162.159.128.233/32
+162.159.128.0/24
+discord.com
+discord.gg
+*.discord.com
+*.discord.gg
+*.discordapp.com
+discordapp.com
+cdn.discordapp.com
+cdn.discordapp.net
+*.discordcdn.com
+discordcdn.com
+*.discordmedia.com
+*.discord.media
+*.discordusercontent.com
+gateway.discord.gg
+gateway.discord.media
+media.discordapp.net
+images-ext-1.discordapp.net
+images-ext-2.discordapp.net
+discordapp.net
+discord.co
+*.discord.co
+*.discordapp.net
+status.discord.com
+dl.discordapp.net
+ptb.discord.com
+canary.discord.com
+discord.dev
+dis.gd
+discord.app
+click.discord.com
+collector.discord.com
+discord.gift
+discord.gifts
+discord.media
+discord.new
+fonts.discord.com
+discordstatus.com
+versions.discord.com
+updates.discord.com
+support.discord.com
+software-update.discord.com
+push.discord.com
+*.updates.discord.com
+discordsays.com
+*.discordsays.com
+discordactivities.com
+discord.tools
+*.discord.tools
+discordapp.io
+*.discordapp.io
+discord.design
+*.discord.design
+discord-attachments-uploads-prd.storage.googleapis.com
+gateway-us-east1-b.discord.gg
